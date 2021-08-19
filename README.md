@@ -6,6 +6,6 @@ Model | Pre-trained | Accuracy
 --- | --- | --- 
 RobertaClass | Roberta-large-mnli | 80.76%
 
-How to run the code:
-• Sequentially running the cells should produce the same results.
-• Please pay attention to the dev/test file locations.
+How to run the code:  
+• Sequentially running the cells should produce the same results.  
+• Please pay attention to the dev/test file locations.  
